@@ -1,0 +1,7 @@
+01:18:18.295 [main] INFO  resources.base - Opened url for Homepage test case
+01:19:31.242 [main] INFO  resources.base - Checked main method for Home Page test case
+01:19:31.243 [main] INFO  resources.base - closing browser for home page test case
+01:19:34.378 [main] INFO  resources.base - Opened url for Homepage test case
+01:20:30.418 [main] INFO  resources.base - Checked main method for Home Page test case
+01:20:30.419 [main] INFO  resources.base - closing browser for home page test case
+01:20:32.725 [main] INFO  resources.base - Opening url for ValidateTitle test case

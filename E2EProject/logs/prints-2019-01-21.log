@@ -1,0 +1,6 @@
+19:24:10.284 [main] INFO  resources.base - Closing browser for Validate title test page
+19:24:15.197 [main] INFO  resources.base - Opened url for Homepage test case
+19:25:17.156 [main] INFO  resources.base - Checked main method for Home Page test case
+19:25:17.158 [main] INFO  resources.base - closing browser for home page test case
+19:25:20.086 [main] INFO  resources.base - Opened url for Homepage test case
+19:27:29.081 [main] INFO  resources.base - Opening url for ValidateTitle test case

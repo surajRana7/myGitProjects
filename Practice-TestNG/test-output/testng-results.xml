@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="15" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+    <groups>
+      <group name="smoke">
+        <method signature="basic_class4.basic5()[pri:0, instance:basic_package2.basic_class4@20e2cbe0]" name="basic5" class="basic_package2.basic_class4"/>
+        <method signature="basic_class2.bc()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bc" class="basic_package.basic_class2"/>
+        <method signature="basic_class3.basic4()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="basic4" class="basic_package.basic_class3"/>
+        <method signature="basic_class.basic2()[pri:0, instance:basic_package.basic_class@3532ec19]" name="basic2" class="basic_package.basic_class"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+      <class name="basic_package.basic_class2">
+        <test-method status="PASS" signature="bMehod()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMehod -->
+        <test-method status="PASS" signature="bClass()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bClass" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method status="PASS" signature="bMehod()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMehod -->
+        <test-method status="PASS" signature="abc(java.lang.String)[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="abc" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="MultipleRun(java.lang.String, java.lang.String)[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="MultipleRun" duration-ms="0" started-at="2019-01-11T11:24:00Z" data-provider="getdata" finished-at="2019-01-11T11:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstUsername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FirstUsername]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleRun -->
+        <test-method status="PASS" signature="MultipleRun(java.lang.String, java.lang.String)[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="MultipleRun" duration-ms="0" started-at="2019-01-11T11:24:00Z" data-provider="getdata" finished-at="2019-01-11T11:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstUsername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FirstUsername]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleRun -->
+        <test-method status="PASS" signature="MultipleRun(java.lang.String, java.lang.String)[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="MultipleRun" duration-ms="0" started-at="2019-01-11T11:24:00Z" data-provider="getdata" finished-at="2019-01-11T11:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstUsername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FirstUsername]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleRun -->
+        <test-method status="PASS" signature="bMehod()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMehod -->
+        <test-method status="PASS" signature="bMehod()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMehod -->
+        <test-method status="PASS" signature="bc()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bc" duration-ms="16" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bMehod()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMehod -->
+      </class> <!-- basic_package.basic_class2 -->
+      <class name="basic_package.basic_class3">
+        <test-method status="PASS" signature="executeFirst()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="executeFirst" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeFirst -->
+        <test-method status="PASS" signature="edemo()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="edemo" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edemo -->
+        <test-method status="PASS" signature="ExecuteLast()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="ExecuteLast" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExecuteLast -->
+        <test-method status="PASS" signature="AMehod()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="AMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMehod -->
+        <test-method status="PASS" signature="fdemo()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="fdemo" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fdemo -->
+        <test-method status="PASS" signature="basic4()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="basic4" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic4 -->
+        <test-method status="PASS" signature="AMehod()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="AMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMehod -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="demo" duration-ms="0" started-at="2019-01-11T11:24:00Z" depends-on-methods="basic_package.basic_class3.fdemo, basic_package.basic_class3.edemo" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="AMehod()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="AMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMehod -->
+        <test-method status="PASS" signature="AMehod()[pri:0, instance:basic_package.basic_class3@548a9f61]" name="AMehod" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AMehod -->
+      </class> <!-- basic_package.basic_class3 -->
+      <class name="basic_package2.basic_class4">
+        <test-method status="PASS" signature="Demo123(java.lang.String)[pri:0, instance:basic_package2.basic_class4@20e2cbe0]" name="Demo123" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo123 -->
+        <test-method status="PASS" signature="basic5()[pri:0, instance:basic_package2.basic_class4@20e2cbe0]" name="basic5" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic5 -->
+      </class> <!-- basic_package2.basic_class4 -->
+    </test> <!-- Test -->
+    <test name="Test123" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+      <class name="basic_package.basic_class2">
+        <test-method status="PASS" signature="bsuite()[pri:0, instance:basic_package.basic_class2@4f933fd1]" name="bsuite" is-config="true" duration-ms="16" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsuite -->
+      </class> <!-- basic_package.basic_class2 -->
+      <class name="basic_package.basic_class">
+        <test-method status="PASS" signature="basic2()[pri:0, instance:basic_package.basic_class@3532ec19]" name="basic2" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic2 -->
+        <test-method status="PASS" signature="demo(java.lang.String, java.lang.String)[pri:0, instance:basic_package.basic_class@3532ec19]" name="demo" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[facebook.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="basic()[pri:0, instance:basic_package.basic_class@3532ec19]" name="basic" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic -->
+      </class> <!-- basic_package.basic_class -->
+      <class name="basic_package2.basic_class4">
+        <test-method status="PASS" signature="Asuite()[pri:0, instance:basic_package2.basic_class4@20e2cbe0]" name="Asuite" is-config="true" duration-ms="0" started-at="2019-01-11T11:24:00Z" finished-at="2019-01-11T11:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Asuite -->
+      </class> <!-- basic_package2.basic_class4 -->
+    </test> <!-- Test123 -->
+  </suite> <!-- Suite -->
+</testng-results>

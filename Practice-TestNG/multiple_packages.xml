@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="URL" value="google.com"></parameter>
+    <classes>
+      <class name="basic_package.basic_class2"/>
+      <class name="basic_package.basic_class3"/>
+      <class name="basic_package2.basic_class4">
+      <methods>
+      <exclude name="A.*"></exclude>
+      </methods>
+      </class>
+
+    </classes>
+  </test> 
+  
+  <test thread-count="5" name="Test123">
+  <parameter name="URL2" value="facebook.com"></parameter>
+  <parameter name="key" value="1234546"></parameter>
+    <classes>
+      <class name="basic_package.basic_class"/>
+     
+    
+
+    </classes>
+  </test> 
+</suite>

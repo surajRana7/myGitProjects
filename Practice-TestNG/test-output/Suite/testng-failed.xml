@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test123(failed)">
+    <parameter name="URL2" value="facebook.com"/>
+    <parameter name="key" value="1234546"/>
+    <classes>
+      <class name="basic_package.basic_class">
+        <methods>
+          <include name="demo"/>
+        </methods>
+      </class> <!-- basic_package.basic_class -->
+    </classes>
+  </test> <!-- Test123(failed) -->
+</suite> <!-- Failed suite [Suite] -->

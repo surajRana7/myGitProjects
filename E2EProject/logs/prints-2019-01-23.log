@@ -1,0 +1,6 @@
+16:27:12.919 [main] INFO  resources.base - closing browser for home page test case
+16:27:15.253 [main] INFO  resources.base - Opened url for Homepage test case
+16:28:23.468 [main] INFO  resources.base - Checked main method for Home Page test case
+16:28:23.471 [main] INFO  resources.base - closing browser for home page test case
+16:28:25.804 [main] INFO  resources.base - Opening browser for Navigation bar test case
+16:28:33.185 [main] INFO  resources.base - Checked main method for navigation test case
